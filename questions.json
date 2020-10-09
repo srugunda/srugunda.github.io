@@ -1,0 +1,44 @@
+{
+  "Questions" : {
+    "1" : {
+      "question" : "Who is the next President of America",
+      "option1" : "Trump",
+      "option2" : "Biden",
+      "option3" : "Hillary",
+      "option4" : "Obama",
+      "answer" : "Biden"
+    },
+    "2" : {
+      "question" : "Who is the President of Uganda",
+      "option1" : "Milton Obote",
+      "option2" : "Bobi Wine",
+      "option3" : "Yoweri Museveni",
+      "option4" : "Kizza Besigye",
+      "answer" : "Yoweri Museveni"
+    },
+    "3" : {
+      "question" : "In which year did Uganda gain her independence?",
+      "option1" : "1960",
+      "option2" : "1961",
+      "option3" : "1962",
+      "option4" : "1963",
+      "answer" : "1962"
+    },
+    "4" : {
+      "question" : "What are the colors of the Uganda flag?",
+      "option1" : "Red White",
+      "option2" : "Black Blue Green",
+      "option3" : "White Purple",
+      "option4" : "Black Yellow Red",
+      "answer" : "Black Yellow Red"
+    },
+        "5" : {
+      "question" : "Who is the most awesome human being?",
+      "option1" : "Fred",
+      "option2" : "Solo",
+      "option3" : "Craig",
+      "option4" : "Lee",
+      "answer" : "Solo"
+    }
+  }
+}
